@@ -1,5 +1,19 @@
 ## Hi! 👋 I'm Vertti Sorvari
 
+🎓 Third-year Computer Science student
+📍 Aalto University
+
+💻 Skills
+  - Python, JavaScript, Scala, C++, HTML
+  - Git, Linux
+  - SQL
+  - Basic Machine Learning techiniques
+
+📂 Projects
+
+📫 Contact
+email: vertti.sorvari@gmail.com
+
 <!--
 **vertti7/vertti7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
